@@ -1,7 +1,7 @@
 # 👾 Earthlight VS Aliens Attacks
 
-[![Download](https://img.shields.io/badge/Download-Game-blue?style=for-the-badge)](https://github.com/DIBERLOG/earthlight-alien-invasion/releases)
-[![GitHub](https://img.shields.io/badge/View-GitHub-black?style=for-the-badge)](https://github.com/DIBERLOG/earthlight-alien-invasion)
+[![Download](https://img.shields.io/badge/Download_Game-blue?style=for-the-badge)](https://github.com/DIBERLOG/Earthlight-VS-Aliens-Attacks/releases)
+[![GitHub](https://img.shields.io/badge/View_Code-black?style=for-the-badge)](https://github.com/DIBERLOG/Earthlight-VS-Aliens-Attacks)
 
 Космический шутер на Python с динамической сложностью.
 
